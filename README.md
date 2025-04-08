@@ -2,6 +2,9 @@
 
 This FastAPI application provides an endpoint for predicting employee performance based on various features.
 
+## FastAPI UI Demo
+![FastAPI UI Demo](https://github.com/inamdarmihir/Uniblox_Task_Submission/blob/main/FastAPI_Demo.png)
+
 ## Setup
 
 1. Create a virtual environment (recommended):
