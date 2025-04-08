@@ -1,0 +1,11 @@
+employee_id,age,gender,marital_status,salary,employment_type,region,has_dependents,tenure_years,enrolled
+1,35,Male,Married,75000,Full-time,North,Yes,5,1
+2,42,Female,Single,65000,Full-time,South,No,3,0
+3,28,Male,Single,55000,Full-time,East,No,2,0
+4,45,Female,Married,85000,Full-time,West,Yes,8,1
+5,31,Male,Married,60000,Full-time,North,Yes,4,1
+6,38,Female,Divorced,70000,Full-time,South,Yes,6,1
+7,33,Male,Single,58000,Full-time,East,No,3,0
+8,40,Female,Married,80000,Full-time,West,Yes,7,1
+9,29,Male,Single,52000,Full-time,North,No,2,0
+10,36,Female,Married,72000,Full-time,South,Yes,5,1 
